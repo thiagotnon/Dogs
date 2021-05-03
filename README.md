@@ -24,7 +24,7 @@ O projeto foi desenvolvido com as teconlogias:
 ### Clone the repository to have a copy of the code on your machine
 
 ```bash
-$ git clone https://github.com/thiagotnon/Dogs && cd Dogs
+$ git clone https://github.com/thiagotnon/Dogs.git && cd Dogs
 ```
 
 ### Instale as dependências
