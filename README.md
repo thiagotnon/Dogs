@@ -33,16 +33,18 @@ $ git clone https://github.com/thiagotnon/Dogs.git && cd Dogs
 $ yarn install
 ```
 
-### Execute o backend
+### Variável de ambiente
 
 ```bash
-$ yarn server
+REACT_APP_HOST=http://suaURL
 ```
+
+Altere o arquivo .env.template para .env e insira a sua URL de HOST.
 
 ### Execute o projeto
 
 ```bash
-$ yarn dev
+$ yarn start
 ```
 
 O aplicativo será executado no endereço **http://localhost:3000**

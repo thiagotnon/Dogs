@@ -1,4 +1,4 @@
-export const API_URL = 'https://dogsapi.origamid.dev/json';
+export const API_URL = process.env.REACT_APP_HOST;
 
 export function TOKEN_POST(body) {
   return {
