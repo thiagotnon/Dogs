@@ -3,7 +3,9 @@
 ## 💻 Projeto
 
 Dogs é uma rede social voltada para cachorros.
+
 Esse projeto foi desenvolvido durante o curso de React Completo da Origamid.
+
 Foi utilizado uma REST API desenvolvida em WordPress utilizando JWT para autenticação.
 
 ## 🧭 Tecnologias
