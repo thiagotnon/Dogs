@@ -15,7 +15,7 @@ O projeto foi desenvolvido com as teconlogias:
 - [ReactJS](https://reactjs.org/)
 - [SASS](https://sass-lang.com)
 - [Victory](https://formidable.com/open-source/victory/)
-- [Features do JavaScript ES5+](https://www.javascript.com/)
+- [Features do JavaScript ES6+](https://www.javascript.com/)
 
 <h2>
   📌 Executando o projeto
